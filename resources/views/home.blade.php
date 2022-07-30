@@ -14,7 +14,7 @@
                             </div>
                         @endif
 
-                        Welcome, {{ __('You are logged in!') }}
+                        Welcome, To laravel 9 {{ __('You are logged in!') }}
                     </div>
                 </div>
             </div>
